@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GestionnaireContact/GestionnaireContact.vcxproj" Id="099bf200-fe8e-469e-9894-a80c5152b385" />
+</Solution>
